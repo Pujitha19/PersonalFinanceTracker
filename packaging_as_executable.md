@@ -45,6 +45,3 @@
 - **GUI Not Displaying**: Verify Tkinter is installed (`python -m tkinter` should open a test window).
 - **Predictions Fail**: Add at least two months of expense data (e.g., “2025-03-01, 100, Food” and “2025-04-01, 150, Rent”).
 - **Export Issues**: Ensure write permissions in the output directory and `reportlab` is installed.
-
-### Notes for Submission
-- **CMSC 495 Requirements**: Include the source code, `.exe`, and User Guide (from previous artifact) in your submission. Document
